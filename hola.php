@@ -1,8 +1,8 @@
 hola espero y estes bien saludos
 
 <<<<<<< HEAD
-nada solo simple 
-=======
+ 
+
 jnjwviwriuiww
 claudia
 
